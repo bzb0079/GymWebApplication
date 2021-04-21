@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="FAQsStyleSheet.xsl"?>
+
+<FAQs>
+    <FAQ>
+        <title>HOW DO I FREEZE MY MEMBERSHIP?</title>
+        <description>The freeze policy allows you to temporarily suspend your membership in accordance with the following terms: You may freeze your membership once in a year, and start anytime within the year</description>
+    </FAQ>
+    <FAQ>
+        <title>CAN I CANCEL MY ACCOUNT ONLINE?</title>
+        <description> No. All cancellations must be done in club with a manager. Cancellations are processed this way to ensure you will get a receipt that your cancellation was received.</description>
+    </FAQ>
+    <FAQ>
+        <title>WHAT'S THE DIFFERENCE BETWEEN FREEZING AND CANCELING MY MEMBERSHIP?</title>
+        <description>A freeze is appropriate when you know approximately how long you will be gone. For example, if you will be away on business for three months, or your doctor feels your injury should be healed in less than six months, a freeze is the option you should choose. It is a defined amount of time without billing, or club usage, and your billing will automatically restart at the end of the freeze. Remember, if you are requesting a medical or pregnancy freeze, we will need medical documentation.</description>
+    </FAQ>
+</FAQs>

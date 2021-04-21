@@ -1,0 +1,23 @@
+table.FAQs {
+    background-color: cadetblue;
+    font-family: arial;
+    margin: 10px 0pt 15px;
+    font-size: 14pt;
+    width: 100%;
+    text-align: left;
+}
+
+table.FAQs thead tr th {
+    background-color: darkslateblue;
+    border: 1px solid #FFF;
+    font-size: 12pt;
+    padding: 10px;
+}
+
+table.FAQs tbody tr td {
+    background-color: #FFF;
+    color: #3D3D3D;
+    font-size: 12pt;
+    vertical-align: top;
+    padding: 10px;
+}
